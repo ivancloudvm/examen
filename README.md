@@ -1,5 +1,5 @@
-# examen
-Examen_admision_OPI
+# Examen
+Examen_admision
 
 
 Se adjuntan las soluciones de las diferentes secciones en diferentes notebooks
