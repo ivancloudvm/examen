@@ -2,4 +2,4 @@
 Examen_admision_OPI
 
 
-Se adjuntan las soluciones de las diferentes secciones
+Se adjuntan las soluciones de las diferentes secciones en diferentes notebooks
